@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there i'm Karishma gajria Agarwal 👋
+##### Web dev(react js dev with 1.5years of experience)
 
 <!--
 **kgajriaAgarwal/kgajriaAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
