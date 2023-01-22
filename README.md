@@ -1,4 +1,4 @@
-### Hi there i'm Karishma gajria Agarwal 👋
+### Hi there i'm Karishma gajria 👋
 ##### Web dev(react js dev with 2 years of experience)
 
 ## check All my work at : peerlist https://peerlist.io/karishmagajria
